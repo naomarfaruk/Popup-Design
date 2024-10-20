@@ -7,6 +7,6 @@ function closePopup(){
     popup.classList.remove("open-popup")
    };
 
-//    window.onload = function(){
-//     openPopup()
-//    }
+   window.onload = function(){
+    openPopup()
+   }
